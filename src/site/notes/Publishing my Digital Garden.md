@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publishing-my-digital-garden/","dg-note-properties":{"draft":true}}
+{"dg-publish":true,"permalink":"/publishing-my-digital-garden/","created":"2026-03-22T17:22:31.852+05:30","updated":"2026-03-24T19:21:32.896+05:30","dg-note-properties":{"draft":true}}
 ---
 
 Great — this is a solid long-term setup, and doing it via **Quartz + GitHub Pages** is exactly the right call for a proper digital garden.
