@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ascent-a2-what-event-d-cafe-map/la-event-winter-olympics-2026/","tags":["gardenEntry"],"created":"2026-03-14T09:11:12.271+05:30","updated":"2026-05-05T04:18:23.053+05:30","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ascent-a2-what-event-d-cafe-map/la-event-winter-olympics-2026/","tags":["gardenEntry"],"created":"2026-03-14T09:11:12.271+05:30","updated":"2026-05-29T09:32:30.269+05:30","dg-note-properties":{}}
 ---
 
 
@@ -66,26 +66,65 @@ Here's an example.
 
 #### Part A
 1. What is 2026 Winter Olympics officially known as?  <u>Milano Cortina 2026</u> ![Milano Cortina.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/Milano%20Cortina.png)
+{ #ccdqdvbn}
+
 2. Where are Winter Olympics 2026 being held?  <u>Italy</u>
+{ #ccrk7ghy}
+
 3. Which Winter Olympic event is debuting in 2026 Winter Olympic Games?  <u>Ski Mountaineering</u> ![Ski Mountaineering.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/Ski%20Mountaineering.png)
+{ #ccohegs2}
+
 4. Where was the opening ceremony of 2026 Winter Olympics held? <u>Stadio San Siro</u> ![Stadio San siro.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/Stadio%20San%20siro.png)
+{ #cc1jd77m}
+
 5. Which region will host the 2030 Winter Olympics? <u>French Alps</u> ![French Alps.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/French%20Alps.png)
+{ #cclj3u8r}
+
 6. Where is the closing ceremony being held of Winter Olympics 2026? <u>Verona Arena</u> ![Verona Arena.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/Verona%20Arena.png)
+{ #ccy2etyh}
+
 7. How many total nations participated in the Winter Olympics? <u>92</u>
+{ #cc4vj8fv}
+
 8. Under which banner do Russian and Belarusian athletes have to compete in Winter Olympics 2026? <u>Individual Neutral Athletes</u> ![individual neutral athletes.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/individual%20neutral%20athletes.png)
+{ #ccg3vmya}
+
 
 #### Part B
 
-9. What is the name of the emblem of Winter Olympics 2026? <u>Futura</u> ![Futura 26.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/Futura%2026.png)
-10. What is the official slogan of Winter Olympics 2026? <u>It’s your vibe</u> ![It's your vibe.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/It's%20your%20vibe.png)
-11. What are the mascots names in Winter Olympics 2026? <u>Tina & Milo</u> ![tina and milo.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/tina%20and%20milo.png)
+9. What is the name of the emblem of Winter Olympics 2026? <u>Futura</u> ![Futura 26.png\|81](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/Futura%2026.png)
+{ #ccr2whyf}
+
+10. What is the official slogan of Winter Olympics 2026? <u>It’s your vibe</u> ![It's your vibe.png\|81](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/It's%20your%20vibe.png)
+{ #cceodn47}
+
+11. What are the mascots names in Winter Olympics 2026? <u>Tina & Milo</u> ![tina and milo.png\|81](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/tina%20and%20milo.png)
+{ #ccshexcr}
+
 12. Why were Stoats chosen as mascots of Winter Olympics 2026? <u>Ability to adapt during seasons and challenging habitats</u> ![stoats.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/stoats.png)
+{ #cco01ged}
+
 13. Who is the main mascot and who is the Paralympic mascot? <u>Tina (white sister) — Main event; Milo (brown brother) — Paralympics, along with six snowdrop flowers called The Flo</u> ![Tina milo the flo.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/Tina%20milo%20the%20flo.png)
+{ #ccqu22or}
+
 14. What's the name of the music for Winter Olympics 2026? <u>Fino all’alba (Until the Dawn) by La Cittadina</u> ![Fino All'alba.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/Fino%20All'alba.png)
+{ #ccrf8cu0}
+
 #### Part C
 
 15. Which other country was accused of war crimes just like Russia-Belarus and protested against and why? <u>Iran (Gaza genocide)</u> ![iran gaza genocide.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/iran%20gaza%20genocide.png)
+{ #ccrx9qz9}
+
 16. Who was disqualified from participating in Olympic Games due to expressing patriotism on helmet(names of Ukranian Atheltes who died in war) in Winter Olympics 2026? <u>Vladyslav Heraskevych</u> ![Vladyslav Heraskevych.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/Vladyslav%20Heraskevych.png)
-17. What is the name of the Olympic athlete who was not allowed to wear her helmet with written "Be Brave Like Ukrainians"? Freestyle Skier — <u>Kateryna Kotstar</u> — “Be brave like Ukrainians” ![Kateryna Kotstar.png\|20](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/Kateryna%20Kotstar.png) 
+{ #cc1slatm}
+
+17. What is the name of the Olympic athlete who was not allowed to wear her helmet with written "Be Brave Like Ukrainians"? Freestyle Skier — <u>Kateryna Kotstar</u> — “Be brave like Ukrainians” ![Kateryna Kotstar.png\|20](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/Kateryna%20Kotstar.png)
+{ #ccju3io7}
+
 18. There was a Short track speed skater who wrote the lines of a poet Lina Kostensko " “Where there is heroism there is no final defeat” on his helmet, what was his name? Short track speed skater — <u>Oleh Handei</u> —(Lina Kostenko) ![Oleh Handei.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/Oleh%20Handei.png)
+{ #cc6w6bpb}
+
 19. Which chemical compound were athletes injecting in their crotch area to improve in ski jumping?  <u>Hyaluronic Acid</u> ![hyaluronic acid.png\|16](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/hyaluronic%20acid.png)
+{ #ccxtw3ab}
+
+
