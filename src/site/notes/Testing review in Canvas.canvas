@@ -1,0 +1,53 @@
+---
+{"dg-publish":true,"permalink":"/testing-review-in-canvas.canvas/","contentClasses":"canvas-page","created":"2026-05-29T10:02:32.436+05:30","updated":"2026-05-29T10:10:21.731+05:30","dg-note-properties":{}}
+---
+
+<div id="Testing_review_in_Canvascanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Testing_review_in_Canvascanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Testing_review_in_Canvascanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs>
+		</svg>
+		<div class="canvas-node canvas-node-text " data-node-id="e2ec7016f3f55972" style="transform: translate(-440px, -320px); width: 260px; height: 60px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="V2hhdCBpcyBteSBuYW1lIDx1PlByYW5qYWw8L3U+"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="ff5ad52dd8acba51" style="transform: translate(-440px, -240px); width: 260px; height: 60px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="V2hhdCBpcyBteSBmYXZvcml0ZSBnYW1lIGFzIG9mIHRvZGF5IC0gPHU+QXBleCBMZWdlbmRzPC91Pg=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="1de07bee0615758c" style="transform: translate(-440px, 40px); width: 760px; height: 140px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="QW5kIHdobyBpcyBvdXIgZmF2b3JpdGUgYWdlbnQgaW4gYXBleCAtPHU+IEhvcml6b248L3U+ICFbQXBleF9Ib3Jpem9uMjIuanBnXHwyNF0oL2ltZy91c2VyL1N1bnNldCUyMEI3JTIwUmFuZG9tJTIwSW1hZ2VzJTIwZCUyMEIlMjBHbGFzc19NYXAvSW1nJTIwQXBleCUyMExlZ2VuZHMvQXBleF9Ib3Jpem9uMjIuanBnKQpidXQgd2UgaGF2ZSBiZWVuIHdpbm5pbmcgbWF0Y2hlcyB3aXRoIDx1PkJhbmdhbG9yZTwvdT4gYWxzbyAKYW5kIGFub3RoZXIgZWFzeSBhZ2VudCBmb3IgbWUgaXMgPHU+V2F0dHNvbjwvdT4gIVtBcGV4X1dhdHRzb24wNi5qcGdcfDI0XSgvaW1nL3VzZXIvU3Vuc2V0JTIwQjclMjBSYW5kb20lMjBJbWFnZXMlMjBkJTIwQiUyMEdsYXNzX01hcC9JbWclMjBBcGV4JTIwTGVnZW5kcy9BcGV4X1dhdHRzb24wNi5qcGcp"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="41665335e08830fe" style="transform: translate(-440px, -140px); width: 600px; height: 100px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="TGV0J3MgYXNzdW1lIHRoaXMsIHdoYXQgZ2FtZSB3YXMgSSBwbGF5aW5nIGJlZm9yZSBBcGV4PyAtIDx1PlZhbG9yYW50PC91PiAhW0FwZXhfTG9iYTM1LmpwZ1x8MjRdKC9pbWcvdXNlci9TdW5zZXQlMjBCNyUyMFJhbmRvbSUyMEltYWdlcyUyMGQlMjBCJTIwR2xhc3NfTWFwL0ltZyUyMEFwZXglMjBMZWdlbmRzL0FwZXhfTG9iYTM1LmpwZykK"></div>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
