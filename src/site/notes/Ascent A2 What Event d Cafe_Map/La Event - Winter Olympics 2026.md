@@ -1,16 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/ascent-a2-what-event-d-cafe-map/la-event-winter-olympics-2026/","tags":["gardenEntry"],"created":"2026-03-14T09:11:12.271+05:30","updated":"2026-05-29T09:32:30.269+05:30","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ascent-a2-what-event-d-cafe-map/la-event-winter-olympics-2026/","tags":["gardenEntry"],"created":"2026-03-14T09:11:12.271+05:30","updated":"2026-05-29T16:51:30.218+05:30","dg-note-properties":{"Cloze-Cards":true,"Canva-slides":true,"Voicertool-Video":true}}
 ---
 
 
 # La Event - Winter Olympics 2026
-
-Now that we have made our own plugin for Cloze which has many features similar to Anki, there feels no need for making and formatting the cards the way previous version of Scaffolding and tables wanted. 
-
-We can simply make cards, underline them and phrasing can be changed as per the requirement. 
-
-Here's an example. 
-
 
 ### Winter Olympic Facts
 
@@ -128,3 +121,12 @@ Here's an example.
 { #ccxtw3ab}
 
 
+---
+
+![La Event - Winter Olympics 2026 Stoats.png\|540](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/La%20Event%20-%20Winter%20Olympics%202026%20Stoats.png)
+
+![La Event - Winter Olympics 2026 Vibe.png\|540](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/La%20Event%20-%20Winter%20Olympics%202026%20Vibe.png)
+
+![La Event - Winter Olympics 2026 Protests.png\|540](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/La%20Event%20-%20Winter%20Olympics%202026%20Protests.png)
+
+![La Event - Winter Olympics 2026 French alps.png\|540](/img/user/Sunset%20B7%20Random%20Images%20d%20B%20Glass_Map/La%20Event%20-%20Winter%20Olympics%202026%20French%20alps.png)

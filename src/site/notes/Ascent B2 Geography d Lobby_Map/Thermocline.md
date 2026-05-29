@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ascent-b2-geography-d-lobby-map/thermocline/","created":"2026-05-05T04:20:48.994+05:30","updated":"2026-05-05T16:08:06.702+05:30","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ascent-b2-geography-d-lobby-map/thermocline/","created":"2026-05-05T04:20:48.994+05:30","updated":"2026-05-29T16:51:24.097+05:30","dg-note-properties":{"Voicertool-Video":true,"Canva-slides":true}}
 ---
 
 
