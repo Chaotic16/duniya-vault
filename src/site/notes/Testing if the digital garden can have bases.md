@@ -8,6 +8,12 @@ For the new story we got bases. So let's try inserting one.
 
 
 ```base
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.ctime
 
 ```
 
